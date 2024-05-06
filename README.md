@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
-<h3 align="center">Amante del mundo de la estetica, sus transformaciones y magia.</h3>
+<h3 align="center">Amante del mundo de la estetica, su magia y tranformaciones.</h3>
 <div class="imagen" align="center">
 
 <h3 align="center"> <img width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW4xZ3BzNTcyaGY3c25jem5vMmtsNW1nNnRyYWFhN2JrbzJtZmJvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITacRy2zH4vMQ/giphy.gif">
